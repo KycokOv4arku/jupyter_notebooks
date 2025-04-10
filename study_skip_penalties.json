@@ -1,0 +1,30 @@
+{
+  "2025-02-06": {
+    "amount": 160,
+    "subscribers": 16,
+    "target": 120,
+    "days_under_target": 1,
+    "min_learned": 0
+  },
+  "2025-03-02": {
+    "amount": 160,
+    "subscribers": 16,
+    "target": 150,
+    "days_under_target": 1,
+    "min_learned": 0
+  },
+  "2025-03-27": {
+    "amount": 580,
+    "subscribers": 29,
+    "target": 150,
+    "days_under_target": 2,
+    "min_learned": 0
+  },
+  "2025-04-07": {
+    "amount": 300.0,
+    "subscribers": 30,
+    "target": 150,
+    "days_under_target": 1,
+    "min_learned": 0
+  }
+}
